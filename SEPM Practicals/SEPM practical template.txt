@@ -1,6 +1,6 @@
 SEPM practical template
 
 Aim:
-project title:
-theory:
-conclusion:
+Project title:
+Theory:
+Conclusion:
